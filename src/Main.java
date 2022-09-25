@@ -1,16 +1,13 @@
 public class Main {
     public static void main(String[] args) {
-        int cat = 5;
-        System.out.println(cat);
-        byte dog = 3;
-        System.out.println(dog);
-        short bag = 100;
-        System.out.println(bag);
-        long blackStone = 1000L;
-        System.out.println(blackStone);
-        float redStone = 3.5f;
-        System.out.println(redStone);
-        double whiteStone = 35.28;
-        System.out.println(whiteStone);
+       float meet = 27.12f;
+       long rabbitMeet = 987678965549L;
+       float wolfMeet = 2.786f;
+       boolean heLive = false;
+       short sugar = 569;
+       short solt = -159;
+       short pepper = 27897;
+       byte biff = 67;
+
     }
 }
